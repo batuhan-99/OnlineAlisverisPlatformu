@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\OnlineAlisverisPlatformu\OnlineAlisverisPlatformu\obj\Debug\net8.0\OnlineAlisverisPlatformu.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\OnlineAlisverisPlatformu\OnlineAlisverisPlatformu\obj\Debug\net8.0\OnlineAlisverisPlatformu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\OnlineAlisverisPlatformu\OnlineAlisverisPlatformu\obj\Debug\net8.0\OnlineAlisverisPlatformu.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\OnlineAlisverisPlatformu\OnlineAlisverisPlatformu\obj\Debug\net8.0\OnlineAlisverisPlatformu.AssemblyInfo.cs
+C:\Users\asus\Desktop\OnlineAlisverisPlatformu\OnlineAlisverisPlatformu\obj\Debug\net8.0\OnlineAlisverisPlatformu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\OnlineAlisverisPlatformu\OnlineAlisverisPlatformu\obj\Debug\net8.0\OnlineAlisverisPlatformu.MvcApplicationPartsAssemblyInfo.cache
