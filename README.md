@@ -1,4 +1,5 @@
 Online Shopping Platform
+
 This project has been developed to create an online shopping platform. While customers can browse products and place orders, admins can manage products and orders. The project is equipped with technologies and features commonly used in modern web applications.
 
 Table of Contents
